@@ -9,6 +9,7 @@ const baseTileLayer = L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_wat
 });
 baseTileLayer.addTo(map);
 
+
 // ## Interface Elements
 const slides = document.querySelectorAll('.slide');
 
